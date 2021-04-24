@@ -17,7 +17,7 @@ PS. This is NOT my Pwn2Own exploit, in which I used a real 0day bug and is curre
 
 ### Author
 
-Alisa Esage 
-Email: contact@zerodayengineering.com
-Twitter: @alisaesage
-Github: @badd1e
+Alisa Esage  
+Email: contact@zerodayengineering.com  
+Twitter: @alisaesage  
+Github: @badd1e  
